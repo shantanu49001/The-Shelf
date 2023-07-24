@@ -36,7 +36,7 @@ Embark on a literary adventure like never before with Shelf - your faithful comp
 
 ## Features
 
-- `Native Application designed specially for Android Users Using Modern Koltin integrated Uis no use of external XML code for layouts:`
+- `Native Application designed specially for Android Users Using Modern Koltin integrated Uis,by Android Jetpack Compose Library, no use of external XML code for layouts:`
 ![jetpack](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQyCrAWdIb8-moiYuP7EdpznRLOLaKoZWJ04MLzMi1wkJrMfLKQshwXhB_ODNz3T6_aoOwQ0YccVpSbLO2K9qkpx-HTklvNm3ZR_spOINLr861_PgDXDnh6LgpptIyzR5Nv-UjlQ-5FyeLpHwOCb4NjZ8darLIomTVjHM2VvDv7YZdzO-FS6zMKEhlCQ/w1200-h630-p-k-no-nu/Android-JetpackCompose1.2-Social.png)
 
 - `Effortless Google SignIn:`
