@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536195600090",
+    "project_id": "fleet-respect-372117",
+    "storage_bucket": "fleet-respect-372117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536195600090:android:27f32b35a43d0594df9fe3",
+        "android_client_info": {
+          "package_name": "com.devst.reader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536195600090-guaifmr10o4mc8s4f4iog4es6nqqv8cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3kXMX3FucVSQrX8Z-kB8Lgda_VO6ISIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536195600090-guaifmr10o4mc8s4f4iog4es6nqqv8cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

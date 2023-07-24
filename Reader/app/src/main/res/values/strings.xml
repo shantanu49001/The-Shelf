@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reader</string>
+     <string name="Createaccout">For SignUp, enter email and password with atleast 6 charactars</string>
+    <string name="action">action</string>
+</resources>
