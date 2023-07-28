@@ -150,7 +150,7 @@ Please reach out the author `github@shantanu49001`
 
 ## Deployment
 
-Get the application on PlayStore
+Application under review on PlayStore , kindly download code file [zip] (at master branch) to refer code.
 
 ![appp](https://www.blog-nouvelles-technologies.fr/wp-content/uploads/2020/05/google-play-store-feature-image.jpg)
 
